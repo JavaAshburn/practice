@@ -8,7 +8,7 @@ public class MyfirstwebappApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MyfirstwebappApplication.class, args);
-		System.out.println("My first web application is started ABDCDDD");
+		System.out.println("My first web application is started");
 			
 		}
 	}
